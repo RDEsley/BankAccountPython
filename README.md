@@ -78,7 +78,6 @@ Ou abra o projeto no PyCharm e execute o arquivo principal.
 
 ```
 Conta-Bancaria-Python/
-├── main.py              # Ponto de entrada da aplicação
 ├── conta_bancaria.py    # Lógica da conta (ou similar)
 ├── README.md
 └── LICENSE
